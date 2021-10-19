@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../ip/cic_d10/sim/cic_d10.vhd" \
+
+nosort

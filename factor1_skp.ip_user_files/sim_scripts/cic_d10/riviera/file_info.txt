@@ -1,0 +1,8 @@
+xpm_cdc.sv,systemverilog,xpm,../../../../../../Vitis/Vivado/2019.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,
+xpm_memory.sv,systemverilog,xpm,../../../../../../Vitis/Vivado/2019.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../../Vitis/Vivado/2019.2/data/ip/xpm/xpm_VCOMP.vhd,
+xbip_utils_v3_0_vh_rfs.vhd,vhdl,xbip_utils_v3_0_10,../../../ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd,
+axi_utils_v2_0_vh_rfs.vhd,vhdl,axi_utils_v2_0_6,../../../ipstatic/hdl/axi_utils_v2_0_vh_rfs.vhd,
+cic_compiler_v4_0_vh_rfs.vhd,vhdl,cic_compiler_v4_0_15,../../../ipstatic/hdl/cic_compiler_v4_0_vh_rfs.vhd,
+cic_d10.vhd,vhdl,xil_defaultlib,../../../ip/cic_d10/sim/cic_d10.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

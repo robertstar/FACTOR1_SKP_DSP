@@ -1,0 +1,6 @@
+verilog xil_defaultlib --include "../../../ip/ila_dac/hdl/verilog" \
+"../../../ip/ila_dac/sim/ila_dac.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

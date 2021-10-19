@@ -1,0 +1,2 @@
+cic_d10.vhd,vhdl,xil_defaultlib,../../../ip/cic_d10/sim/cic_d10.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

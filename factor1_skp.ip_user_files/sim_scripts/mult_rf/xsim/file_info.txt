@@ -1,0 +1,2 @@
+mult_rf.vhd,vhdl,xil_defaultlib,../../../ip/mult_rf/sim/mult_rf.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

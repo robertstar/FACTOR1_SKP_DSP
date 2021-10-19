@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../ip/fir_20k2/sim/fir_20k2.vhd" \
+
+nosort

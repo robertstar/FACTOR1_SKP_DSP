@@ -1,0 +1,8 @@
+xpm_cdc.sv,systemverilog,xpm,../../data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../ip/fir_20k2/cmodel"
+xpm_memory.sv,systemverilog,xpm,../../data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../ip/fir_20k2/cmodel"
+xpm_VCOMP.vhd,vhdl,xpm,../../data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../ip/fir_20k2/cmodel"
+xbip_utils_v3_0_vh_rfs.vhd,vhdl,xbip_utils_v3_0_10,../../../ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd,incdir="../../../ip/fir_20k2/cmodel"
+axi_utils_v2_0_vh_rfs.vhd,vhdl,axi_utils_v2_0_6,../../../ipstatic/hdl/axi_utils_v2_0_vh_rfs.vhd,incdir="../../../ip/fir_20k2/cmodel"
+fir_compiler_v7_2_vh_rfs.vhd,vhdl,fir_compiler_v7_2_13,../../../ipstatic/hdl/fir_compiler_v7_2_vh_rfs.vhd,incdir="../../../ip/fir_20k2/cmodel"
+fir_20k2.vhd,vhdl,xil_defaultlib,../../../ip/fir_20k2/sim/fir_20k2.vhd,incdir="../../../ip/fir_20k2/cmodel"
+glbl.v,Verilog,xil_defaultlib,glbl.v

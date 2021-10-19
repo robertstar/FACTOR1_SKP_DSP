@@ -1,0 +1,2 @@
+fir_20k2.vhd,vhdl,xil_defaultlib,../../../ip/fir_20k2/sim/fir_20k2.vhd,incdir="../../../ip/fir_20k2/cmodel"
+glbl.v,Verilog,xil_defaultlib,glbl.v
